@@ -2,5 +2,10 @@
 Oxygen Client an Minecraft Bedrock Recource pack
 
 ----------------------- C R E D I T S -----------------------
+
 @AmBro for Start Menu pop-up
-@OxygenClient for The CLIENT [ofc]
+
+Bedezu Client For UI buttons
+
+@lumo For UI buttons And Animated panaroma
+@OxygenClient for The CLIENT ofc

@@ -14,3 +14,13 @@ Bedezu Client For UI buttons
 -------------------------------------------------------------
 
 ----------------------- F E A T U R E S -----------------------
+
+> Animated Panaroma or Start Menu Background
+> 
+> Info Screen
+> 
+> New Textures
+> 
+> Survival + PvP Themes
+> 
+> 

@@ -8,4 +8,7 @@ Oxygen Client an Minecraft Bedrock Recource pack
 Bedezu Client For UI buttons
 
 @lumo For UI buttons And Animated panaroma
+
 @OxygenClient for The CLIENT ofc
+
+-------------------------------------------------------------
